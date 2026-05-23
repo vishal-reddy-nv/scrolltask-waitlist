@@ -6,28 +6,28 @@ export default function Science() {
       badge: "The Trap",
       title: "1. The Doomscroll Loop",
       desc: "Social algorithms are engineered to exploit your dopamine pathways, trapping you in overstimulation loops. Screen blockers fail because they rely on willpower; ScrollTask intercepts the loop and redirects it.",
-      image: "/images/doomscroll_trap.png",
+      image: "images/doomscroll_trap.png",
       glow: "rgba(108, 99, 255, 0.15)"
     },
     {
       badge: "The Friction",
       title: "2. The Intimidation Gap",
       desc: "High goals feel like climbing a ladder with missing rungs—the sheer friction causes immediate procrastination. By reducing the height of the first step, you start climbing with zero psychological resistance.",
-      image: "/images/micro_steps_ladder.png",
+      image: "images/micro_steps_ladder.png",
       glow: "rgba(72, 207, 173, 0.15)"
     },
     {
       badge: "The Spark",
       title: "3. Cascading Momentum",
       desc: "Starting is always the hardest part. Clearing a single, tiny 2-minute focus task acts like a small falling domino—it triggers a powerful cascade of momentum that naturally tips over massive accomplishments.",
-      image: "/images/domino_momentum.png",
+      image: "images/domino_momentum.png",
       glow: "rgba(99, 179, 255, 0.15)"
     },
     {
       badge: "The Reward",
       title: "4. Dopamine Hills",
       desc: "Your brain rejects a single, far-away peak on a giant mountain. ScrollTask transforms that intimidating summit into a sequence of small, immediate hills—rewarding you instantly to build lasting habit loops.",
-      image: "/images/focus_peaks.png",
+      image: "images/focus_peaks.png",
       glow: "rgba(168, 164, 255, 0.15)"
     }
   ];
